@@ -1,0 +1,7 @@
+# Spark Submit optimization:-
+-----------------------------------
+https://www.c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
+
+https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-1/
+
+https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-2/
