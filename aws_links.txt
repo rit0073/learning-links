@@ -1,0 +1,8 @@
+# S3 select:-
+-------------
+https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/
+
+## S3 select using byte range
+https://dev.to/idrisrampurawala/efficiently-streaming-a-large-aws-s3-file-via-s3-select-4on
+
+
