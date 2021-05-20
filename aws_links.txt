@@ -2,7 +2,10 @@
 -------------
 https://aws.amazon.com/blogs/storage/querying-data-without-servers-or-databases-using-amazon-s3-select/
 
-## S3 select using byte range
+### api_detail_doc
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_SelectObjectContent.html
+
+### S3 select using byte range
 https://dev.to/idrisrampurawala/efficiently-streaming-a-large-aws-s3-file-via-s3-select-4on
 
 
